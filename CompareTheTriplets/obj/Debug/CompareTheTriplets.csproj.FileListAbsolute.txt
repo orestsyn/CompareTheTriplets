@@ -1,0 +1,7 @@
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe.config
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.exe
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\bin\Debug\CompareTheTriplets.pdb
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csprojAssemblyReference.cache
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.csproj.CoreCompileInputs.cache
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.exe
+D:\VisualProjects\CompareTheTriplets\CompareTheTriplets\obj\Debug\CompareTheTriplets.pdb
